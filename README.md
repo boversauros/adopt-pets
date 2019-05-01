@@ -1,5 +1,10 @@
 # adopt-pets
 
+## Description
+
+Adopt pets is a basic vue project to practice. is based on the freecodcamp academy youtube video:
+
+Learn Vue.js - Full Course for Beginners 2019 [Youtube](https://www.youtube.com/watch?v=4deVCNJq3qc&t=6752s)
 ## Project setup
 ```
 npm install
